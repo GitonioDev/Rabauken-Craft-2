@@ -11,5 +11,7 @@
 !shaderpacks/**
 !servers.dat
 
+!options.txt
+
 # Exclude .txt files in shaderpacks
 shaderpacks/*.txt
