@@ -9,6 +9,7 @@
 !resourcepacks/**
 !shaderpacks/
 !shaderpacks/**
+!servers.dat
 
 # Exclude .txt files in shaderpacks
 shaderpacks/*.txt
