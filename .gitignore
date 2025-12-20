@@ -9,8 +9,6 @@
 !resourcepacks/**
 !shaderpacks/
 !shaderpacks/**
-!config/
-!config/bcc.json
 
 # Exclude .txt files in shaderpacks
 shaderpacks/*.txt
